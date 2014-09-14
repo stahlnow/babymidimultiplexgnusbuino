@@ -1,9 +1,9 @@
 #include "GnusbuinoMIDI.h"
 
-#define s1 0
-#define s2 1
-#define s3 4
-#define z 2
+unsigned char s1 = 0;
+unsigned char s2 = 1;
+unsigned char s3 = 4;
+unsigned char z = 2;
 
 int channel;
 unsigned char values[8] = {0,0,0,0,0,0,0,0};

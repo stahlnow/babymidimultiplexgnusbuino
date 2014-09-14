@@ -1,2 +1,3 @@
+*.hex
 Makefile
 build-mbg2
